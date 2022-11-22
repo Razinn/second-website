@@ -58,4 +58,21 @@ h1 {
     margin-right: 40px;
     padding-left: 10px;
     border-radius: 5px;
+
+}
+
+#id-2 {
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#id-1 {
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
 }
